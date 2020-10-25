@@ -1,1 +1,1 @@
-# Detecting-Hate-Speech-Offensive-Language-on-Twitter
+# Detecting-Hate-Speech & Offensive-Language-on-Twitter
